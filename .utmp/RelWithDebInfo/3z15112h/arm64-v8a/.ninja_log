@@ -1,0 +1,12 @@
+# ninja log v5
+29	316	1738353190553202141	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	fd0f39257571021
+319	443	1738353190676538209	/home/abdullah/005 Blaster Frenzy/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3z15112h/obj/arm64-v8a/libswappywrapper.so	9e868f5c7988e3f9
+12	1762	1738353191989900667	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ac3dc3f07ed691f
+29	2008	1738353192233239396	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4c160acf7863cdff
+6	2013	1738353192219905767	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	39c8fba2a9b8f9ef
+22	2017	1738353192243239617	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	badbcd16bc8b189f
+26	2227	1738353192453244274	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	52df54260bcfb2b3
+9	2473	1738353192689916188	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	f6e2f29f87816368
+16	3037	1738353193263262233	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	eb486bc3c3bc6d07
+0	3163	1738353193389931709	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	9b6caaacc70e4ac5
+3164	3211	1738353193436599410	/home/abdullah/005 Blaster Frenzy/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3z15112h/obj/arm64-v8a/libgame.so	6f67e21383f3150a
